@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faizan Siddiqi</h1>
 <h3 align="center">A passionate Data Science student delving deep into Machine Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/Faizan272/pfpStore/blob/main/23-07-22-21-26-29_4.gif">
+<img align="right" alt="Coding" width="200" src="https://github.com/Faizan272/pfpStore/blob/main/23-07-22-21-26-29_4.gif">
 
 - 🔭 I’m currently working on **Applications of Machine Learning on Peptide Therapeutics**
 
